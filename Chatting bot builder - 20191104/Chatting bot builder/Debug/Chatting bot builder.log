@@ -1,0 +1,5 @@
+﻿  Chatting bot builderDlg.cpp
+c:\users\sangw\onedrive\바탕 화면\chatting bot builder - 복사본 (2)\chatting bot builder\chatting bot builderdlg.cpp(111): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\sangw\onedrive\바탕 화면\chatting bot builder - 복사본 (2)\chatting bot builder\chatting bot builderdlg.cpp(112): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Chatting bot builder.vcxproj -> C:\Users\sangw\OneDrive\바탕 화면\Chatting bot builder - 복사본 (2)\Chatting bot builder\Debug\Chatting bot builder.exe
+  Chatting bot builder.vcxproj -> C:\Users\sangw\OneDrive\바탕 화면\Chatting bot builder - 복사본 (2)\Chatting bot builder\Debug\Chatting bot builder.pdb (Partial PDB)
